@@ -1,7 +1,7 @@
 # ML-Work-Integrated
 Machine Learning Work Integrated Project
 ## Description
-A brief overview of the project or dataset. Explain its purpose and what it contains.
+The file explores the data about diabetic patients. It discusses the details about health conditions of patients.
 
 ## Dataset Information
 - **Source**: The data was provided by instructor.
