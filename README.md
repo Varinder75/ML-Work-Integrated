@@ -4,7 +4,7 @@ Machine Learning Work Integrated Project
 A brief overview of the project or dataset. Explain its purpose and what it contains.
 
 ## Dataset Information
-- **Source**: Mention where the dataset was obtained from.
+- **Source**: The data was provided by instructor.
 - **Features**:
   - `ID`: Unique identifier for each patient.
   - `No_Pation`: Patient identification number.
